@@ -15,7 +15,7 @@ cosine similarity 계산
 
 </br>
 
-### EXP_Similarity   
+### EXP_Similarity.py   
 
 ```
 python EXP_Similarity.py --law-dir [law-dir] --news-dir [news-dir] —emb-type [bert or tfidf] —top-k [# of k]
